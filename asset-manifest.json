@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//evgeniy-goit.github.io/goit-react-hw-02-phonebook/static/css/main.8ac253ae.chunk.css",
+    "main.js": "//evgeniy-goit.github.io/goit-react-hw-02-phonebook/static/js/main.92039855.chunk.js",
+    "main.js.map": "//evgeniy-goit.github.io/goit-react-hw-02-phonebook/static/js/main.92039855.chunk.js.map",
+    "runtime-main.js": "//evgeniy-goit.github.io/goit-react-hw-02-phonebook/static/js/runtime-main.aad49bcd.js",
+    "runtime-main.js.map": "//evgeniy-goit.github.io/goit-react-hw-02-phonebook/static/js/runtime-main.aad49bcd.js.map",
+    "static/js/2.1c85b20b.chunk.js": "//evgeniy-goit.github.io/goit-react-hw-02-phonebook/static/js/2.1c85b20b.chunk.js",
+    "static/js/2.1c85b20b.chunk.js.map": "//evgeniy-goit.github.io/goit-react-hw-02-phonebook/static/js/2.1c85b20b.chunk.js.map",
+    "index.html": "//evgeniy-goit.github.io/goit-react-hw-02-phonebook/index.html",
+    "static/css/main.8ac253ae.chunk.css.map": "//evgeniy-goit.github.io/goit-react-hw-02-phonebook/static/css/main.8ac253ae.chunk.css.map",
+    "static/js/2.1c85b20b.chunk.js.LICENSE.txt": "//evgeniy-goit.github.io/goit-react-hw-02-phonebook/static/js/2.1c85b20b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aad49bcd.js",
+    "static/js/2.1c85b20b.chunk.js",
+    "static/css/main.8ac253ae.chunk.css",
+    "static/js/main.92039855.chunk.js"
+  ]
+}
